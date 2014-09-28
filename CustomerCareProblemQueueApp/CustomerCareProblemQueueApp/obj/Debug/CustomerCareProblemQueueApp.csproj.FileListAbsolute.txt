@@ -1,0 +1,8 @@
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\bin\Debug\CustomerCareProblemQueueApp.exe.config
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\bin\Debug\CustomerCareProblemQueueApp.exe
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\bin\Debug\CustomerCareProblemQueueApp.pdb
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\obj\Debug\CustomerCareProblemQueueApp.CustomerUI.resources
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\obj\Debug\CustomerCareProblemQueueApp.Properties.Resources.resources
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\obj\Debug\CustomerCareProblemQueueApp.csproj.GenerateResource.Cache
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\obj\Debug\CustomerCareProblemQueueApp.exe
+D:\00.  BASIS  .00\BASIS  HOME PRACTICE\CustomerCareProblemQueueApp\CustomerCareProblemQueueApp\obj\Debug\CustomerCareProblemQueueApp.pdb
